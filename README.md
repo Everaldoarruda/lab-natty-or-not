@@ -12,7 +12,8 @@ CANVAS
 iniciei uma pesquisa sobre os temas mais elevantes na area de IA, usando o site gpt consegui criar o texto e as correçoes necessarias. o leonardo ia fez as imagens e o canvas utilizei o designer do ebook
 
 ## 🚀 Resultados
-[EBOOK]
+[EBOOK](https://github.com/Everaldoarruda/lab-natty-or-not/blob/main/engenharia%20de%20prompts%20para%20ia%20generativa.pdf)
+
 
 ## 💭 Reflexão (Opcional)
 excelente desafio me inspirou muito a criar varios trabalhos nessa area .
